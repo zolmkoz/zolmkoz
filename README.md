@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nguyen Trung Nguyen</h1>
-<h3 align="center">A good student at FPT</h3>
+<h3 align="center">A kind student from the University Of Greenwich</h3>
 
 - 🔭 I am currently studying at [University of Greenwich.](https://greenwich.edu.vn/)
 
