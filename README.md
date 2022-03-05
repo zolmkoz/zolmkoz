@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **every thing I learned.**
 
-- 📫 How to reach me <a href="https://www.linkedin.com/in/zolmkoz/">LinkedIn</a>, <a href="https://www.facebook.com/zolmkoz.official">Facebook</a>
+- 📫 How to reach me <a href="https://www.linkedin.com/in/zolmkoz/" target="_blank" >LinkedIn</a>, <a href="https://www.facebook.com/zolmkoz.official" target="_blank">Facebook</a>
 
 - ⚡ Fun fact **I share... a lot!**
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zolmkoz&label=Profile%20views&color=0e75b6&style=flat" alt="zolmkoz" /> </p>
