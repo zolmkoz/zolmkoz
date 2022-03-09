@@ -3,7 +3,7 @@
 
 - 🔭 I am currently studying at [University of Greenwich.](https://greenwich.edu.vn/)
 
-- 🌱 I’m currently learning **C#, HTML&CSS, Framework: ASP .NET MVC, Bootstrap,**
+- 🌱 I’m currently learning **Software Engineering**
 
 - 👨‍💻 All of my projects are available at <a href="https://github.com/zolmkoz">GitHub</a>
 
