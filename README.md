@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Software Engineering**
 
-- 👨‍💻 All of my projects are available at <a href="https://github.com/zolmkoz">GitHub</a>
+- 👨‍💻 All of my projects are available at <a href="https://github.com/zolmkoz?tab=repositories">GitHub</a>
 
 - 💬 Ask me about **every thing I learned.**
 
