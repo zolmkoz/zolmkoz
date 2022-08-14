@@ -3,7 +3,7 @@
 
 - 🔭 I am currently studying at [University of Greenwich.](https://greenwich.edu.vn/)
 
-- 🌱 I’m currently learning **Software Engineering**
+- 🌱 I’m currently learning **BSc (Hons) in Computing - Software Engineering**
 
 - 👨‍💻 All of my projects are available at <a href="https://github.com/zolmkoz?tab=repositories">GitHub</a>
 
